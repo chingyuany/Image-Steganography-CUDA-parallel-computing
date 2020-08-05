@@ -1,5 +1,5 @@
 # Image-Steganography-in-CUDA  
-This program is to do image Steganography in CUDA with a blindhid algorithm.  
+This program is to do image Steganography in CUDA with a blind hide algorithm.  
 GPU_encoding_result.png is for GPU encoding for text1.txt and landscape image.  
 GPU_decoding_result.png is for GPU decoding for text1.txt and landscape image.  
 ### requirement environment###   
